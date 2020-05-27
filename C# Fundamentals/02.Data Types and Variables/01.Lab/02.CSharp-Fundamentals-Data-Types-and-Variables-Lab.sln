@@ -1,0 +1,83 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Convert-Meters-to-Kilometers", "01.Convert-Meters-to-Kilometers\01.Convert-Meters-to-Kilometers.csproj", "{742EAF1D-EDEB-4DBA-90E1-436E0E02B3EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Pounds-to-Dollars", "02.Pounds-to-Dollars\02.Pounds-to-Dollars.csproj", "{9773A110-D540-4D0C-A89F-680CF5AEBD37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Exact-Sum-of-Real-Numbers", "03.Exact-Sum-of-Real-Numbers\03.Exact-Sum-of-Real-Numbers.csproj", "{A50F1E43-D73D-4A32-B9A1-9DEF8594332E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Centuries-to-Minutes", "04.Centuries-to-Minutes\04.Centuries-to-Minutes.csproj", "{236D932B-5F46-42C1-AC99-B34FEC4771BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Special-Numbers", "05.Special-Numbers\05.Special-Numbers.csproj", "{2CC99744-E90A-4C63-982E-AAB4B908B913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Reversed-Chars", "06.Reversed-Chars\06.Reversed-Chars.csproj", "{4F1A4BD2-19AB-4E28-9153-F3687E5D05E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Concat-Names", "07.Concat-Names\07.Concat-Names.csproj", "{BD0E306D-961C-4A5D-AC2F-8173FD3ECE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Town-Info", "08.Town-Info\08.Town-Info.csproj", "{5B00D54C-C875-4A61-A75E-A3F1F34113EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Chars-to-String", "09.Chars-to-String\09.Chars-to-String.csproj", "{BFD324AE-FA08-4B88-AAB6-DC7298DB6AA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Lower-or-Upper", "10.Lower-or-Upper\10.Lower-or-Upper.csproj", "{5F0D571A-5DF8-4DD4-9CAE-CC7FEF913161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Refactor-Volume-of-Pyramid", "11.Refactor-Volume-of-Pyramid\11.Refactor-Volume-of-Pyramid.csproj", "{F506828D-6810-43FA-B971-A2015D4582E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Refactor-Special-Numbers", "12.Refactor-Special-Numbers\12.Refactor-Special-Numbers.csproj", "{312078B3-B972-4E3A-BB32-AA4854D2F9A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742EAF1D-EDEB-4DBA-90E1-436E0E02B3EE}.Debug|x86.ActiveCfg = Debug|x86
+		{742EAF1D-EDEB-4DBA-90E1-436E0E02B3EE}.Debug|x86.Build.0 = Debug|x86
+		{742EAF1D-EDEB-4DBA-90E1-436E0E02B3EE}.Release|x86.ActiveCfg = Release|x86
+		{742EAF1D-EDEB-4DBA-90E1-436E0E02B3EE}.Release|x86.Build.0 = Release|x86
+		{9773A110-D540-4D0C-A89F-680CF5AEBD37}.Debug|x86.ActiveCfg = Debug|x86
+		{9773A110-D540-4D0C-A89F-680CF5AEBD37}.Debug|x86.Build.0 = Debug|x86
+		{9773A110-D540-4D0C-A89F-680CF5AEBD37}.Release|x86.ActiveCfg = Release|x86
+		{9773A110-D540-4D0C-A89F-680CF5AEBD37}.Release|x86.Build.0 = Release|x86
+		{A50F1E43-D73D-4A32-B9A1-9DEF8594332E}.Debug|x86.ActiveCfg = Debug|x86
+		{A50F1E43-D73D-4A32-B9A1-9DEF8594332E}.Debug|x86.Build.0 = Debug|x86
+		{A50F1E43-D73D-4A32-B9A1-9DEF8594332E}.Release|x86.ActiveCfg = Release|x86
+		{A50F1E43-D73D-4A32-B9A1-9DEF8594332E}.Release|x86.Build.0 = Release|x86
+		{236D932B-5F46-42C1-AC99-B34FEC4771BF}.Debug|x86.ActiveCfg = Debug|x86
+		{236D932B-5F46-42C1-AC99-B34FEC4771BF}.Debug|x86.Build.0 = Debug|x86
+		{236D932B-5F46-42C1-AC99-B34FEC4771BF}.Release|x86.ActiveCfg = Release|x86
+		{236D932B-5F46-42C1-AC99-B34FEC4771BF}.Release|x86.Build.0 = Release|x86
+		{2CC99744-E90A-4C63-982E-AAB4B908B913}.Debug|x86.ActiveCfg = Debug|x86
+		{2CC99744-E90A-4C63-982E-AAB4B908B913}.Debug|x86.Build.0 = Debug|x86
+		{2CC99744-E90A-4C63-982E-AAB4B908B913}.Release|x86.ActiveCfg = Release|x86
+		{2CC99744-E90A-4C63-982E-AAB4B908B913}.Release|x86.Build.0 = Release|x86
+		{4F1A4BD2-19AB-4E28-9153-F3687E5D05E1}.Debug|x86.ActiveCfg = Debug|x86
+		{4F1A4BD2-19AB-4E28-9153-F3687E5D05E1}.Debug|x86.Build.0 = Debug|x86
+		{4F1A4BD2-19AB-4E28-9153-F3687E5D05E1}.Release|x86.ActiveCfg = Release|x86
+		{4F1A4BD2-19AB-4E28-9153-F3687E5D05E1}.Release|x86.Build.0 = Release|x86
+		{BD0E306D-961C-4A5D-AC2F-8173FD3ECE9E}.Debug|x86.ActiveCfg = Debug|x86
+		{BD0E306D-961C-4A5D-AC2F-8173FD3ECE9E}.Debug|x86.Build.0 = Debug|x86
+		{BD0E306D-961C-4A5D-AC2F-8173FD3ECE9E}.Release|x86.ActiveCfg = Release|x86
+		{BD0E306D-961C-4A5D-AC2F-8173FD3ECE9E}.Release|x86.Build.0 = Release|x86
+		{5B00D54C-C875-4A61-A75E-A3F1F34113EF}.Debug|x86.ActiveCfg = Debug|x86
+		{5B00D54C-C875-4A61-A75E-A3F1F34113EF}.Debug|x86.Build.0 = Debug|x86
+		{5B00D54C-C875-4A61-A75E-A3F1F34113EF}.Release|x86.ActiveCfg = Release|x86
+		{5B00D54C-C875-4A61-A75E-A3F1F34113EF}.Release|x86.Build.0 = Release|x86
+		{BFD324AE-FA08-4B88-AAB6-DC7298DB6AA4}.Debug|x86.ActiveCfg = Debug|x86
+		{BFD324AE-FA08-4B88-AAB6-DC7298DB6AA4}.Debug|x86.Build.0 = Debug|x86
+		{BFD324AE-FA08-4B88-AAB6-DC7298DB6AA4}.Release|x86.ActiveCfg = Release|x86
+		{BFD324AE-FA08-4B88-AAB6-DC7298DB6AA4}.Release|x86.Build.0 = Release|x86
+		{5F0D571A-5DF8-4DD4-9CAE-CC7FEF913161}.Debug|x86.ActiveCfg = Debug|x86
+		{5F0D571A-5DF8-4DD4-9CAE-CC7FEF913161}.Debug|x86.Build.0 = Debug|x86
+		{5F0D571A-5DF8-4DD4-9CAE-CC7FEF913161}.Release|x86.ActiveCfg = Release|x86
+		{5F0D571A-5DF8-4DD4-9CAE-CC7FEF913161}.Release|x86.Build.0 = Release|x86
+		{F506828D-6810-43FA-B971-A2015D4582E7}.Debug|x86.ActiveCfg = Debug|x86
+		{F506828D-6810-43FA-B971-A2015D4582E7}.Debug|x86.Build.0 = Debug|x86
+		{F506828D-6810-43FA-B971-A2015D4582E7}.Release|x86.ActiveCfg = Release|x86
+		{F506828D-6810-43FA-B971-A2015D4582E7}.Release|x86.Build.0 = Release|x86
+		{312078B3-B972-4E3A-BB32-AA4854D2F9A8}.Debug|x86.ActiveCfg = Debug|x86
+		{312078B3-B972-4E3A-BB32-AA4854D2F9A8}.Debug|x86.Build.0 = Debug|x86
+		{312078B3-B972-4E3A-BB32-AA4854D2F9A8}.Release|x86.ActiveCfg = Release|x86
+		{312078B3-B972-4E3A-BB32-AA4854D2F9A8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

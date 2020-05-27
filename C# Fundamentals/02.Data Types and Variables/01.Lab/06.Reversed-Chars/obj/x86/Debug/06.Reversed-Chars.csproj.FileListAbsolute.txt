@@ -1,0 +1,5 @@
+/root/Projects/C# Fundamentals/02.CSharp-Fundamentals-Data-Types-and-Variables-Lab/02.CSharp-Fundamentals-Data-Types-and-Variables-Lab/06.Reversed-Chars/bin/Debug/06.Reversed-Chars.exe
+/root/Projects/C# Fundamentals/02.CSharp-Fundamentals-Data-Types-and-Variables-Lab/02.CSharp-Fundamentals-Data-Types-and-Variables-Lab/06.Reversed-Chars/bin/Debug/06.Reversed-Chars.pdb
+/root/Projects/C# Fundamentals/02.CSharp-Fundamentals-Data-Types-and-Variables-Lab/02.CSharp-Fundamentals-Data-Types-and-Variables-Lab/06.Reversed-Chars/obj/x86/Debug/06.Reversed-Chars.csproj.CoreCompileInputs.cache
+/root/Projects/C# Fundamentals/02.CSharp-Fundamentals-Data-Types-and-Variables-Lab/02.CSharp-Fundamentals-Data-Types-and-Variables-Lab/06.Reversed-Chars/obj/x86/Debug/06.Reversed-Chars.exe
+/root/Projects/C# Fundamentals/02.CSharp-Fundamentals-Data-Types-and-Variables-Lab/02.CSharp-Fundamentals-Data-Types-and-Variables-Lab/06.Reversed-Chars/obj/x86/Debug/06.Reversed-Chars.pdb
