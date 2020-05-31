@@ -1,0 +1,53 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Sum-Adjacent-Equal-Numbers", "01.Sum-Adjacent-Equal-Numbers\01.Sum-Adjacent-Equal-Numbers.csproj", "{C027726B-E69D-4068-9779-E22E73D5EBE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GaussTrick", "02.GaussTrick\02.GaussTrick.csproj", "{D3B7B9C5-4F32-40B4-AAA1-891EB73A1806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Merging-Lists", "03.Merging-Lists\03.Merging-Lists.csproj", "{1DCF90AA-6B19-4FFC-AC4E-B11B823833C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.List-of-Products", "04.List-of-Products\04.List-of-Products.csproj", "{2ACDEF71-755D-477D-9671-853E51B14E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Remove-Negatives-and-Reverse", "05.Remove-Negatives-and-Reverse\05.Remove-Negatives-and-Reverse.csproj", "{FBAA72B3-0890-4453-9E1A-9994D497C5FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.List-Manipulation-Basics", "06.List-Manipulation-Basics\06.List-Manipulation-Basics.csproj", "{97244BE0-A56D-4C6A-86D6-8E5145A7D135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.List-Manipulation-Advanced", "07.List-Manipulation-Advanced\07.List-Manipulation-Advanced.csproj", "{F2CBA09B-5B16-4545-890D-12F015B29AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C027726B-E69D-4068-9779-E22E73D5EBE3}.Debug|x86.ActiveCfg = Debug|x86
+		{C027726B-E69D-4068-9779-E22E73D5EBE3}.Debug|x86.Build.0 = Debug|x86
+		{C027726B-E69D-4068-9779-E22E73D5EBE3}.Release|x86.ActiveCfg = Release|x86
+		{C027726B-E69D-4068-9779-E22E73D5EBE3}.Release|x86.Build.0 = Release|x86
+		{D3B7B9C5-4F32-40B4-AAA1-891EB73A1806}.Debug|x86.ActiveCfg = Debug|x86
+		{D3B7B9C5-4F32-40B4-AAA1-891EB73A1806}.Debug|x86.Build.0 = Debug|x86
+		{D3B7B9C5-4F32-40B4-AAA1-891EB73A1806}.Release|x86.ActiveCfg = Release|x86
+		{D3B7B9C5-4F32-40B4-AAA1-891EB73A1806}.Release|x86.Build.0 = Release|x86
+		{1DCF90AA-6B19-4FFC-AC4E-B11B823833C9}.Debug|x86.ActiveCfg = Debug|x86
+		{1DCF90AA-6B19-4FFC-AC4E-B11B823833C9}.Debug|x86.Build.0 = Debug|x86
+		{1DCF90AA-6B19-4FFC-AC4E-B11B823833C9}.Release|x86.ActiveCfg = Release|x86
+		{1DCF90AA-6B19-4FFC-AC4E-B11B823833C9}.Release|x86.Build.0 = Release|x86
+		{2ACDEF71-755D-477D-9671-853E51B14E88}.Debug|x86.ActiveCfg = Debug|x86
+		{2ACDEF71-755D-477D-9671-853E51B14E88}.Debug|x86.Build.0 = Debug|x86
+		{2ACDEF71-755D-477D-9671-853E51B14E88}.Release|x86.ActiveCfg = Release|x86
+		{2ACDEF71-755D-477D-9671-853E51B14E88}.Release|x86.Build.0 = Release|x86
+		{FBAA72B3-0890-4453-9E1A-9994D497C5FA}.Debug|x86.ActiveCfg = Debug|x86
+		{FBAA72B3-0890-4453-9E1A-9994D497C5FA}.Debug|x86.Build.0 = Debug|x86
+		{FBAA72B3-0890-4453-9E1A-9994D497C5FA}.Release|x86.ActiveCfg = Release|x86
+		{FBAA72B3-0890-4453-9E1A-9994D497C5FA}.Release|x86.Build.0 = Release|x86
+		{97244BE0-A56D-4C6A-86D6-8E5145A7D135}.Debug|x86.ActiveCfg = Debug|x86
+		{97244BE0-A56D-4C6A-86D6-8E5145A7D135}.Debug|x86.Build.0 = Debug|x86
+		{97244BE0-A56D-4C6A-86D6-8E5145A7D135}.Release|x86.ActiveCfg = Release|x86
+		{97244BE0-A56D-4C6A-86D6-8E5145A7D135}.Release|x86.Build.0 = Release|x86
+		{F2CBA09B-5B16-4545-890D-12F015B29AF0}.Debug|x86.ActiveCfg = Debug|x86
+		{F2CBA09B-5B16-4545-890D-12F015B29AF0}.Debug|x86.Build.0 = Debug|x86
+		{F2CBA09B-5B16-4545-890D-12F015B29AF0}.Release|x86.ActiveCfg = Release|x86
+		{F2CBA09B-5B16-4545-890D-12F015B29AF0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
