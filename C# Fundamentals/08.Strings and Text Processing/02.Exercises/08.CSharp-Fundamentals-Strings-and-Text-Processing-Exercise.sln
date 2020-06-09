@@ -1,0 +1,59 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Valid-Usernames", "01.Valid-Usernames\01.Valid-Usernames.csproj", "{5ADD90B7-54A1-4757-A41A-2FD3211097D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Character-Multiplier", "02.Character-Multiplier\02.Character-Multiplier.csproj", "{8ACF2DD8-8D57-4653-82D5-2D7A29BF7817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Extract-File", "03.Extract-File\03.Extract-File.csproj", "{00CEE3A6-6488-446E-B83C-7B3EB3BE83DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Caesar-Cipher", "04.Caesar-Cipher\04.Caesar-Cipher.csproj", "{4F4C3204-8C6A-4782-8DF7-4B8D54AC09BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Multiply-Big-Number", "05.Multiply-Big-Number\05.Multiply-Big-Number.csproj", "{B142BC25-AB22-462A-A536-65C9F0511715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Replace-Repeating-Chars", "06.Replace-Repeating-Chars\06.Replace-Repeating-Chars.csproj", "{FEA1816C-5193-44BC-B8EB-FCFEDFC5E3E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.String-Explosion", "07.String-Explosion\07.String-Explosion.csproj", "{E0D40185-559C-4156-B595-9D96E6B887CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Letters-Change-Numbers", "08.Letters-Change-Numbers\08.Letters-Change-Numbers.csproj", "{8460A698-A8A6-417D-9B45-90AE17B9D8EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADD90B7-54A1-4757-A41A-2FD3211097D9}.Debug|x86.ActiveCfg = Debug|x86
+		{5ADD90B7-54A1-4757-A41A-2FD3211097D9}.Debug|x86.Build.0 = Debug|x86
+		{5ADD90B7-54A1-4757-A41A-2FD3211097D9}.Release|x86.ActiveCfg = Release|x86
+		{5ADD90B7-54A1-4757-A41A-2FD3211097D9}.Release|x86.Build.0 = Release|x86
+		{8ACF2DD8-8D57-4653-82D5-2D7A29BF7817}.Debug|x86.ActiveCfg = Debug|x86
+		{8ACF2DD8-8D57-4653-82D5-2D7A29BF7817}.Debug|x86.Build.0 = Debug|x86
+		{8ACF2DD8-8D57-4653-82D5-2D7A29BF7817}.Release|x86.ActiveCfg = Release|x86
+		{8ACF2DD8-8D57-4653-82D5-2D7A29BF7817}.Release|x86.Build.0 = Release|x86
+		{00CEE3A6-6488-446E-B83C-7B3EB3BE83DE}.Debug|x86.ActiveCfg = Debug|x86
+		{00CEE3A6-6488-446E-B83C-7B3EB3BE83DE}.Debug|x86.Build.0 = Debug|x86
+		{00CEE3A6-6488-446E-B83C-7B3EB3BE83DE}.Release|x86.ActiveCfg = Release|x86
+		{00CEE3A6-6488-446E-B83C-7B3EB3BE83DE}.Release|x86.Build.0 = Release|x86
+		{4F4C3204-8C6A-4782-8DF7-4B8D54AC09BA}.Debug|x86.ActiveCfg = Debug|x86
+		{4F4C3204-8C6A-4782-8DF7-4B8D54AC09BA}.Debug|x86.Build.0 = Debug|x86
+		{4F4C3204-8C6A-4782-8DF7-4B8D54AC09BA}.Release|x86.ActiveCfg = Release|x86
+		{4F4C3204-8C6A-4782-8DF7-4B8D54AC09BA}.Release|x86.Build.0 = Release|x86
+		{B142BC25-AB22-462A-A536-65C9F0511715}.Debug|x86.ActiveCfg = Debug|x86
+		{B142BC25-AB22-462A-A536-65C9F0511715}.Debug|x86.Build.0 = Debug|x86
+		{B142BC25-AB22-462A-A536-65C9F0511715}.Release|x86.ActiveCfg = Release|x86
+		{B142BC25-AB22-462A-A536-65C9F0511715}.Release|x86.Build.0 = Release|x86
+		{FEA1816C-5193-44BC-B8EB-FCFEDFC5E3E8}.Debug|x86.ActiveCfg = Debug|x86
+		{FEA1816C-5193-44BC-B8EB-FCFEDFC5E3E8}.Debug|x86.Build.0 = Debug|x86
+		{FEA1816C-5193-44BC-B8EB-FCFEDFC5E3E8}.Release|x86.ActiveCfg = Release|x86
+		{FEA1816C-5193-44BC-B8EB-FCFEDFC5E3E8}.Release|x86.Build.0 = Release|x86
+		{E0D40185-559C-4156-B595-9D96E6B887CE}.Debug|x86.ActiveCfg = Debug|x86
+		{E0D40185-559C-4156-B595-9D96E6B887CE}.Debug|x86.Build.0 = Debug|x86
+		{E0D40185-559C-4156-B595-9D96E6B887CE}.Release|x86.ActiveCfg = Release|x86
+		{E0D40185-559C-4156-B595-9D96E6B887CE}.Release|x86.Build.0 = Release|x86
+		{8460A698-A8A6-417D-9B45-90AE17B9D8EB}.Debug|x86.ActiveCfg = Debug|x86
+		{8460A698-A8A6-417D-9B45-90AE17B9D8EB}.Debug|x86.Build.0 = Debug|x86
+		{8460A698-A8A6-417D-9B45-90AE17B9D8EB}.Release|x86.ActiveCfg = Release|x86
+		{8460A698-A8A6-417D-9B45-90AE17B9D8EB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
