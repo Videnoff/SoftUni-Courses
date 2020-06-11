@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Furniture", "01.Furniture\01.Furniture.csproj", "{17064742-30C2-4DCD-9901-5599403D14B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Race", "02.Race\02.Race.csproj", "{B54AFEFB-1549-4ED4-8056-322B9F01E610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SoftUni-Bar-Income", "03.SoftUni-Bar-Income\03.SoftUni-Bar-Income.csproj", "{5B6FE75B-F1D8-4460-82BB-6604FAD3E9E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Star-Enigma", "04.Star-Enigma\04.Star-Enigma.csproj", "{198D8ED0-C9F4-4EEE-B826-F01206C5454C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Nether-Realms", "05.Nether-Realms\05.Nether-Realms.csproj", "{19F44687-6C0E-48E6-BB42-D1FC2B63F0C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Extract-Emails", "06.Extract-Emails\06.Extract-Emails.csproj", "{65C65C52-F568-4C66-AB50-6C55B5964735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17064742-30C2-4DCD-9901-5599403D14B5}.Debug|x86.ActiveCfg = Debug|x86
+		{17064742-30C2-4DCD-9901-5599403D14B5}.Debug|x86.Build.0 = Debug|x86
+		{17064742-30C2-4DCD-9901-5599403D14B5}.Release|x86.ActiveCfg = Release|x86
+		{17064742-30C2-4DCD-9901-5599403D14B5}.Release|x86.Build.0 = Release|x86
+		{B54AFEFB-1549-4ED4-8056-322B9F01E610}.Debug|x86.ActiveCfg = Debug|x86
+		{B54AFEFB-1549-4ED4-8056-322B9F01E610}.Debug|x86.Build.0 = Debug|x86
+		{B54AFEFB-1549-4ED4-8056-322B9F01E610}.Release|x86.ActiveCfg = Release|x86
+		{B54AFEFB-1549-4ED4-8056-322B9F01E610}.Release|x86.Build.0 = Release|x86
+		{5B6FE75B-F1D8-4460-82BB-6604FAD3E9E2}.Debug|x86.ActiveCfg = Debug|x86
+		{5B6FE75B-F1D8-4460-82BB-6604FAD3E9E2}.Debug|x86.Build.0 = Debug|x86
+		{5B6FE75B-F1D8-4460-82BB-6604FAD3E9E2}.Release|x86.ActiveCfg = Release|x86
+		{5B6FE75B-F1D8-4460-82BB-6604FAD3E9E2}.Release|x86.Build.0 = Release|x86
+		{198D8ED0-C9F4-4EEE-B826-F01206C5454C}.Debug|x86.ActiveCfg = Debug|x86
+		{198D8ED0-C9F4-4EEE-B826-F01206C5454C}.Debug|x86.Build.0 = Debug|x86
+		{198D8ED0-C9F4-4EEE-B826-F01206C5454C}.Release|x86.ActiveCfg = Release|x86
+		{198D8ED0-C9F4-4EEE-B826-F01206C5454C}.Release|x86.Build.0 = Release|x86
+		{19F44687-6C0E-48E6-BB42-D1FC2B63F0C4}.Debug|x86.ActiveCfg = Debug|x86
+		{19F44687-6C0E-48E6-BB42-D1FC2B63F0C4}.Debug|x86.Build.0 = Debug|x86
+		{19F44687-6C0E-48E6-BB42-D1FC2B63F0C4}.Release|x86.ActiveCfg = Release|x86
+		{19F44687-6C0E-48E6-BB42-D1FC2B63F0C4}.Release|x86.Build.0 = Release|x86
+		{65C65C52-F568-4C66-AB50-6C55B5964735}.Debug|x86.ActiveCfg = Debug|x86
+		{65C65C52-F568-4C66-AB50-6C55B5964735}.Debug|x86.Build.0 = Debug|x86
+		{65C65C52-F568-4C66-AB50-6C55B5964735}.Release|x86.ActiveCfg = Release|x86
+		{65C65C52-F568-4C66-AB50-6C55B5964735}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
