@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Concert", "01.Concert\01.Concert.csproj", "{9EE07DAC-98E0-4B5E-996A-4264920212E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Song-Encryption", "02.Song-Encryption\02.Song-Encryption.csproj", "{E14AB7AB-A4A4-478C-8034-C71B3602C047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.The-Isle-of-Man-TT-Race", "03.The-Isle-of-Man-TT-Race\03.The-Isle-of-Man-TT-Race.csproj", "{22C0520F-E17C-4567-95FA-310F86B03AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EE07DAC-98E0-4B5E-996A-4264920212E3}.Debug|x86.ActiveCfg = Debug|x86
+		{9EE07DAC-98E0-4B5E-996A-4264920212E3}.Debug|x86.Build.0 = Debug|x86
+		{9EE07DAC-98E0-4B5E-996A-4264920212E3}.Release|x86.ActiveCfg = Release|x86
+		{9EE07DAC-98E0-4B5E-996A-4264920212E3}.Release|x86.Build.0 = Release|x86
+		{E14AB7AB-A4A4-478C-8034-C71B3602C047}.Debug|x86.ActiveCfg = Debug|x86
+		{E14AB7AB-A4A4-478C-8034-C71B3602C047}.Debug|x86.Build.0 = Debug|x86
+		{E14AB7AB-A4A4-478C-8034-C71B3602C047}.Release|x86.ActiveCfg = Release|x86
+		{E14AB7AB-A4A4-478C-8034-C71B3602C047}.Release|x86.Build.0 = Release|x86
+		{22C0520F-E17C-4567-95FA-310F86B03AF2}.Debug|x86.ActiveCfg = Debug|x86
+		{22C0520F-E17C-4567-95FA-310F86B03AF2}.Debug|x86.Build.0 = Debug|x86
+		{22C0520F-E17C-4567-95FA-310F86B03AF2}.Release|x86.ActiveCfg = Release|x86
+		{22C0520F-E17C-4567-95FA-310F86B03AF2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
