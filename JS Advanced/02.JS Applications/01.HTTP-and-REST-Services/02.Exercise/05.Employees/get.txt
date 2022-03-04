@@ -1,0 +1,9 @@
+GET /api/v1/employees HTTP/1.1
+Host: dummy.restapiexample.com
+Content-Type: application/json
+Content-Length: 53
+
+{
+    "person": "Peter",
+    "phone": "+1-555-9322"
+}
