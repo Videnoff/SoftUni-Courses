@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "data": {
+    "person": "Peter",
+    "phone": "+1-555-9322",
+    "id": 8080
+  },
+  "message": "Successfully! Record has been added."
+}

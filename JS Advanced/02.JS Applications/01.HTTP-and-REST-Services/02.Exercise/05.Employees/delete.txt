@@ -1,0 +1,9 @@
+DELETE /api/v1/delete/2 HTTP/1.1
+Host: dummy.restapiexample.com
+Content-Type: application/json
+Content-Length: 54
+
+{
+    "person": "Peterr",
+    "phone": "+1-555-9322"
+}
