@@ -1,0 +1,4 @@
+GET /classes/student/97qAe2AgPY HTTP/1.1
+Host: parseapi.back4app.com
+X-Parse-Application-Id: EwXpiH9RmTDHoLNGRazah4yZudGj8uJDOSQ10uQ0
+X-Parse-REST-API-Key: nlD9iKt05QLxeoGBdGm39JkxKMOFEFE7taMG2GSl
