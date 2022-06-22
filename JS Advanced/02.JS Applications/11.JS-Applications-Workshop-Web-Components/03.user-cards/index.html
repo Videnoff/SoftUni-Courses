@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Card - Component</title>
+    <script src="app.js" type="module"></script>
+</head>
+
+<body>
+<h1>User Cards</h1>
+<user-card avatar="./images/profile-pic-1.png">
+    John Doe
+    <span slot="email">
+        john.doe@gmail.com
+    </span>
+    <span slot="phone">
+        +1-555-7113
+    </span>
+</user-card>
+
+<user-card avatar="./images/profile-pic-2.png">
+    Eric Smith
+    <span slot="email">
+        eric.smith@gmail.com
+    </span>
+    <span slot="phone">
+        +1-555-1463
+    </span>
+</user-card>
+</body>
+
+</html>
