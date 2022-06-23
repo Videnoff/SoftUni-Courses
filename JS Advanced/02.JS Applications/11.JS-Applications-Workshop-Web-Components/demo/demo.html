@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        Web Components Demo
+    </title>
+</head>
+<body>
+<template id="my-template">
+    <style>
+        h1 {
+            color: red;
+        }
+    </style>
+    <article>
+        <h1>
+            <slot name="title">
+                Title
+            </slot>
+        </h1>
+        <p>
+            <slot>
+                Description
+            </slot>
+        </p>
+    </article>
+</template>
+<main id="content">
+    <h1>
+        Hello World
+    </h1>
+    <card-element color="blue">
+        <span slot="title">
+            John Peters
+        </span>
+        <ul>
+            <li>First</li>
+            <li>Second</li>
+            <li>Third</li>
+        </ul>
+    </card-element>
+    <card-element color="red"></card-element>
+    <card-element color="green"></card-element>
+    <card-element id="myElement" visible></card-element>
+
+</main>
+<button id="actionBtn">Click Me</button>
+<script type="module">
+    class CardElement extends HTMLElement {
+        constructor() {
+            console.log('constructor');
+            super();
+
+            this.attachShadow({mode: 'open'});
+        }
+
+        connectedCallback() {
+            console.log('connected');
+
+            const content = tmp.content.cloneNode(true);
+            const color = this.getAttribute('color');
+            content.querySelector('h1').style.color = color;
+            this.shadowRoot.appendChild(content);
+        }
+
+        static get observedAttributes() {
+            return ['visible'];
+        }
+
+        attributeChangedCallback(name, old, value) {
+            if (value == null) {
+                this.style.display = 'none';
+            } else {
+                this.style.display = 'block';
+            }
+        }
+    }
+
+    const tmp = document.getElementById('my-template');
+    window.customElements.define('card-element', CardElement);
+
+    document.getElementById('myElement').addEventListener('click', (e) => {
+        console.log('changed');
+        e.currentTarget.setAttribute('visible', false);
+    });
+
+    const main = document.getElementById('content');
+    document.getElementById('actionBtn').addEventListener('click', () => {
+        const myElement = document.createElement('card-element');
+        myElement.addEventListener('click', (e) => {
+            e.currentTarget.remove();
+        });
+
+        main.append(myElement);
+    });
+</script>
+</body>
+</html>
